@@ -1,0 +1,15 @@
+* {
+  font-family: "Poppins";
+}
+
+.nav-item,
+.navbar-brand {
+  padding-right: 2rem;
+  font-size: 1.5rem;
+}
+
+#content {
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+}
